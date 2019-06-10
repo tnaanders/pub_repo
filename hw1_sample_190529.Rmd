@@ -1,6 +1,6 @@
 ---
 title: "Homework 1"
-author: Therese Anders
+author: Therese NA Anders
 date: 5/29/2019
 output: github_document
 ---
